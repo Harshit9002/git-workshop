@@ -11,6 +11,11 @@ const e = a * b;
 
 // JavaScript program to find the area of a triangle
 
+<<<<<<< HEAD
+=======
+// JavaScript program to find the area of a triangle
+
+>>>>>>> development
 const side1 = parseInt(prompt('Enter side1: '));
 const side2 = parseInt(prompt('Enter side2: '));
 const side3 = parseInt(prompt('Enter side3: '));

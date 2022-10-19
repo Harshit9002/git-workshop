@@ -17,5 +17,8 @@ const side3 = parseInt(prompt('Enter side3: '));
 
 
 
+<<<<<<< HEAD
   
+=======
+>>>>>>> new-feature
 console.log('multiply of ' + a + ' and ' + b + ' is ' + c);

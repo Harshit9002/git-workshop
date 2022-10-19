@@ -15,5 +15,6 @@ const e = a * b;
 const number = parseInt(prompt('Enter the number of terms: '));
 let n1 = 0, n2 = 1, nextTerm;
 
-
+kknwjnfjjbjbfj  wf fwkn
 console.log('multiply of ' + a + ' and ' + b + ' is ' + c);
+jnkjbwb kw kncs
